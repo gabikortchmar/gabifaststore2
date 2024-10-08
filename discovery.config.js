@@ -36,7 +36,7 @@ module.exports = {
   },
   storeUrl: "https://vtexfaststore.com",
   secureSubdomain: "https://secure.vtexfaststore.com",
-  checkoutUrl: "https://secure.vtexfaststore.com/checkout",
+  checkoutUrl: "https://gabifaststore2.myvtex.com/checkout",
   loginUrl: "https://secure.vtexfaststore.com/api/io/login",
   accountUrl: "https://secure.vtexfaststore.com/api/io/account",
   previewRedirects: {
